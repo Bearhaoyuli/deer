@@ -1,0 +1,151 @@
+{
+  "moments": [
+    {
+      "id": "s1",
+      "date": "2026-08-19",
+      "type": "quote",
+      "title": "First stream of the season",
+      "text": "“Let’s make these three months unforgettable.”",
+      "tags": [
+        "quote",
+        "milestone"
+      ],
+      "by": "fan club",
+      "featured": true
+    },
+    {
+      "id": "s2",
+      "date": "2026-08-23",
+      "type": "image",
+      "title": "Sunset stream",
+      "text": "Outdoor stream at golden hour — chat went wild.",
+      "tags": [
+        "outdoor"
+      ],
+      "by": "fan club",
+      "src": "media/samples/aug-sunset.svg",
+      "featured": true
+    },
+    {
+      "id": "s3",
+      "date": "2026-08-30",
+      "type": "image",
+      "title": "Midnight noodle mukbang",
+      "text": "Late-night stream, 2 bowls, zero regrets.",
+      "tags": [
+        "funny"
+      ],
+      "by": "fan club",
+      "src": "media/samples/aug-food.svg"
+    },
+    {
+      "id": "s4",
+      "date": "2026-09-06",
+      "type": "image",
+      "title": "City lights walk",
+      "text": "Walking stream through downtown at night.",
+      "tags": [
+        "outdoor"
+      ],
+      "by": "fan club",
+      "src": "media/samples/sep-city.svg"
+    },
+    {
+      "id": "s5",
+      "date": "2026-09-14",
+      "type": "image",
+      "title": "6am hike stream",
+      "text": "Signal kept dropping, nobody left.",
+      "tags": [
+        "outdoor",
+        "milestone"
+      ],
+      "by": "fan club",
+      "src": "media/samples/sep-trip.svg"
+    },
+    {
+      "id": "s6",
+      "date": "2026-09-20",
+      "type": "quote",
+      "title": "Chat moment",
+      "text": "“You guys are the reason I keep going.”",
+      "tags": [
+        "quote"
+      ],
+      "by": "fan club"
+    },
+    {
+      "id": "s7",
+      "date": "2026-10-04",
+      "type": "image",
+      "title": "Autumn walk",
+      "text": "Leaves, music, and a surprise song request.",
+      "tags": [
+        "music"
+      ],
+      "by": "fan club",
+      "src": "media/samples/oct-autumn.svg"
+    },
+    {
+      "id": "s8",
+      "date": "2026-10-18",
+      "type": "image",
+      "title": "Concert night",
+      "text": "Biggest live of the season.",
+      "tags": [
+        "music",
+        "milestone"
+      ],
+      "by": "fan club",
+      "src": "media/samples/oct-concert.svg",
+      "featured": true
+    },
+    {
+      "id": "s9",
+      "date": "2026-10-25",
+      "type": "quote",
+      "title": "Inside joke is born",
+      "text": "“That’s not a bug, that’s a feature.”",
+      "tags": [
+        "quote",
+        "funny"
+      ],
+      "by": "fan club"
+    },
+    {
+      "id": "s10",
+      "date": "2026-11-02",
+      "type": "image",
+      "title": "Rainy café stream",
+      "text": "Cozy chat-and-coffee session.",
+      "tags": [
+        "chill"
+      ],
+      "by": "fan club",
+      "src": "media/samples/nov-cozy.svg"
+    },
+    {
+      "id": "s11",
+      "date": "2026-11-12",
+      "type": "image",
+      "title": "First cold day",
+      "text": "Scarf reveal. Fans voted on the color.",
+      "tags": [
+        "chill"
+      ],
+      "by": "fan club",
+      "src": "media/samples/nov-snow.svg"
+    },
+    {
+      "id": "s12",
+      "date": "2026-11-19",
+      "type": "quote",
+      "title": "3-month mark",
+      "text": "Fans: drop your favorite clips and screenshots here to grow this archive 💗",
+      "tags": [
+        "milestone"
+      ],
+      "by": "fan club"
+    }
+  ]
+}

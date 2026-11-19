@@ -1,0 +1,20 @@
+{
+  "creator": "Live Highlights",
+  "tagline": "Three months of live moments, collected by fans.",
+  "douyinId": "57391519748",
+  "range": {
+    "start": "2026-08-19",
+    "end": "2026-11-19"
+  },
+  "chapters": {
+    "2026-08": "The Beginning",
+    "2026-09": "Finding the Rhythm",
+    "2026-10": "Peak Season",
+    "2026-11": "Still Going"
+  },
+  "github": {
+    "owner": "Bearhaoyuli",
+    "repo": "deer",
+    "branch": "main"
+  }
+}
